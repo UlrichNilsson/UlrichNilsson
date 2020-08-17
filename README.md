@@ -1,4 +1,9 @@
-### Hi there 👋
+# Welcome to my place on github
+
+🌱 I’m currently learning
+
+* Github
+* Philosophy
 
 <!--
 **UlrichNilsson/UlrichNilsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
