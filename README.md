@@ -1,5 +1,9 @@
 # Welcome to my place on github
 
+🔭 I’m currently working on 
+
+* Cleaning up old project, and restarting container projects
+
 🌱 I’m currently learning
 
 * Github
