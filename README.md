@@ -9,7 +9,7 @@
 * Github
 * Philosophy
 * Google Kubernetes Engine
-* Seting up k3s cluster on 3 Raspberry Pi's
+* Setting up k3s cluster on 3 Raspberry Pi's
 
 <!--
 **UlrichNilsson/UlrichNilsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
